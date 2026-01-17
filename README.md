@@ -11,6 +11,7 @@ Hobbies:
 - Playing Chess
 - Playing Sports (My favorites are Cricket & Football/Soccer)
 - Watching anime
+
 Favorite song: [Daikho](https://open.spotify.com/track/5GTKYA7UTjPFNmIjaQ0wQ7?si=c8b91a562c2845c7) by Kaavish
 
 
