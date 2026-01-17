@@ -5,7 +5,7 @@
 
 ### **eid: ikhaliq | github username: ibikhaliq**
 
-### *Pronouns: he/him / Class of 2028 - Computer Science and Mathematical Economics*
+### ***Pronouns: he/him / Class of 2028 - Computer Science and Mathematical Economics***
 ---
 Hobbies: 
 - Playing Chess
@@ -15,4 +15,4 @@ Favorite song: [Daikho](https://open.spotify.com/track/5GTKYA7UTjPFNmIjaQ0wQ7?si
 
 
 
-Add your profile details here
+
