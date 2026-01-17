@@ -1,11 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BWN2-Kl_)
-# Ibrahim Khaliq
+# Ibrahim Khaliq #
 
 ![pic of me](D91A0254-Edit.jpg)
 
- **eid: ikhaliq | github username: ibikhaliq**
+**eid: ikhaliq | github username: ibikhaliq**
 
- *Pronouns: he/him / Class of 2028 - Computer Science and Mathematical Economics*
+*Pronouns: he/him / Class of 2028 - Computer Science and Mathematical Economics*
 ---
 Hobbies: 
 - Playing Chess
