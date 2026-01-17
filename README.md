@@ -3,9 +3,9 @@
 
 ![alt text]("/Users/ibrahimkhaliq/Desktop/D91A0254-Edit.jpg")
 
-###**eid: ikhaliq | github username: ibikhaliq**
+### **eid: ikhaliq | github username: ibikhaliq**
 
-###*Pronouns: he/him / Class of 2028 - Computer Science and Mathematical Economics*
+### *Pronouns: he/him / Class of 2028 - Computer Science and Mathematical Economics*
 ---
 Hobbies: 
 - Playing Chess
