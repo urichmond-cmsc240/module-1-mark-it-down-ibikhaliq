@@ -3,6 +3,8 @@
 ---
 ![alt text](/Users/ibrahimkhaliq/Desktop/newpic.pdf)
 **eid: ikhaliq | github username: ibikhaliq**
+*Pronouns: he/him / Class of 2028 - Computer Science and Mathematical Economics*
+
 
 
 Add your profile details here
